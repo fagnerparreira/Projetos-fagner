@@ -1,2 +1,4 @@
 # Projetos fagner
- Repositorio particular fagner
+ Repositorio particular Fágner
+
+ Repositório criado na aula de Git.
